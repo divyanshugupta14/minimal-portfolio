@@ -8,7 +8,7 @@ import Button from "./button";
 
 const LeftPanel = () => {
   return (
-    <div key="left-panel" className="flex flex-col justify-between py-6 xl:max-w-sm xl:py-10 xl:h-full w-[30rem]">
+    <div key="left-panel" className="flex flex-col justify-between py-6 xl:max-w-sm xl:py-10 xl:h-full w-[50rem]">
       {/* Top Container */}
       <div>
         <div>
