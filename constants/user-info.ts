@@ -166,7 +166,7 @@ const GridItems: GridItemInterface[] = [
 
 export const siteConfig = {
   creator: "Divyanshu Gupta",
-  title: "Developer",
+  title: "A Dedicated Javascript Developer",
   bio: "Building better UI than yesterday...",
   location: "Noida, India",
   locationLink:
